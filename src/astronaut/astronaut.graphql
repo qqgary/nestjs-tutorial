@@ -1,0 +1,4 @@
+type Astronaut {
+  id: ID!
+  name: String!
+}
